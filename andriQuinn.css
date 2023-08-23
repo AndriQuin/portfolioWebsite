@@ -57,12 +57,13 @@ nav {
 nav a {
 	display: block;
 	background: transparent;
+	cursor: none;
 }
 
 nav a img {
 	height: 2rem;
 	background: transparent;
-	cursor: pointer;
+	cursor: none;
 }
 
 #menuBar {
